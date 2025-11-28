@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../Assets/img.jpeg";
+
 import { TypeAnimation } from "react-type-animation";
 const Hero = () => {
   const heroBg = import.meta.env.VITE_HERO_BG;

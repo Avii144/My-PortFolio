@@ -1,5 +1,5 @@
 import React from "react";
-import pic from "../Assets/profilepic.JPG";
+
 import { IoLogoInstagram } from "react-icons/io5";
 import { FaLinkedin } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
